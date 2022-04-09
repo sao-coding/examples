@@ -10,8 +10,18 @@
         "error": "NOT Volantis OR Stellar"
     },
     {
+        "id": "77",
+        "url": "https://www.qdovo.com",
+        "error": "NETWORK ERROR"
+    },
+    {
         "id": "61",
         "url": "https://ykedy.github.io",
+        "error": "NETWORK ERROR"
+    },
+    {
+        "id": "36",
+        "url": "https://goopher.tk",
         "error": "NETWORK ERROR"
     }
 ]
