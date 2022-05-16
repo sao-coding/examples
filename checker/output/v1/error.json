@@ -5,6 +5,11 @@
         "error": "NOT Volantis OR Stellar"
     },
     {
+        "id": "84",
+        "url": "https://blog.zealerg.top/",
+        "error": "NETWORK ERROR"
+    },
+    {
         "id": "61",
         "url": "https://ykedy.github.io",
         "error": "NETWORK ERROR"
