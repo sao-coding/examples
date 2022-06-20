@@ -3,5 +3,10 @@
         "id": "85",
         "url": "https://dxsm.github.io",
         "error": "NOT Volantis OR Stellar"
+    },
+    {
+        "id": "84",
+        "url": "https://blog.zealerg.top/",
+        "error": "NETWORK ERROR"
     }
 ]
