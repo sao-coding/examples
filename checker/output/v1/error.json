@@ -1,5 +1,10 @@
 [
     {
+        "id": "96",
+        "url": "https://",
+        "error": "NETWORK ERROR"
+    },
+    {
         "id": "90",
         "url": "https://blog.beacox.place",
         "error": "NETWORK ERROR"
@@ -8,5 +13,10 @@
         "id": "85",
         "url": "https://dxsm.github.io",
         "error": "NOT Volantis OR Stellar"
+    },
+    {
+        "id": "39",
+        "url": "https://qystu.cc",
+        "error": "NETWORK ERROR"
     }
 ]
