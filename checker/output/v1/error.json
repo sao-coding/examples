@@ -10,6 +10,11 @@
         "error": "NETWORK ERROR"
     },
     {
+        "id": "69",
+        "url": "https://www.zlinblog.cn",
+        "error": "NOT Volantis OR Stellar"
+    },
+    {
         "id": "46",
         "url": "https://blog.coolchong.cn",
         "error": "NETWORK ERROR"
