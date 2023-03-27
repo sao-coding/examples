@@ -13,5 +13,10 @@
         "id": "39",
         "url": "https://qystu.cc",
         "error": "NETWORK ERROR"
+    },
+    {
+        "id": "36",
+        "url": "https://goopher.tk",
+        "error": "NETWORK ERROR"
     }
 ]
