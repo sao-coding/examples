@@ -5,11 +5,6 @@
         "error": "NOT Volantis OR Stellar"
     },
     {
-        "id": "12",
-        "url": "https://dusays.com",
-        "error": "NETWORK ERROR"
-    },
-    {
         "id": "3",
         "url": "https://www.heson10.com/volantis/",
         "error": "NOT Volantis OR Stellar"
