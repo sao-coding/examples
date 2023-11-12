@@ -3,5 +3,10 @@
         "id": "85",
         "url": "https://dxsm.github.io",
         "error": "NOT Volantis OR Stellar"
+    },
+    {
+        "id": "70",
+        "url": "https://www.mz-zone.cn",
+        "error": "NOT Volantis OR Stellar"
     }
 ]
