@@ -5,6 +5,11 @@
         "error": "NETWORK ERROR"
     },
     {
+        "id": "116",
+        "url": "https://www.asjin.com/",
+        "error": "NETWORK ERROR"
+    },
+    {
         "id": "105",
         "url": "https://wndbac.cn",
         "error": "NETWORK ERROR"
